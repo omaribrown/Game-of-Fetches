@@ -13,7 +13,7 @@ class App extends React.Component {
           <li>A gold lion, on a crimson field(Gules, a lion or)</li>
           <li>Dragonstone</li>
           <li>Demon of the Trident</li>
-          <li>Highgarden</li>
+          <li>Brandon Stark</li>
           <li>Highgarden</li>
         </ol>
       </div>
