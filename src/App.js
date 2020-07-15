@@ -11,7 +11,7 @@ class App extends React.Component {
           <li>Highgarden</li>
           <li>The Crownlands</li>
           <li>A gold lion, on a crimson field(Gules, a lion or)</li>
-          <li>Highgarden</li>
+          <li>Dragonstone</li>
           <li>Highgarden</li>
           <li>Highgarden</li>
         </ol>
