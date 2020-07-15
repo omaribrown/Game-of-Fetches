@@ -14,7 +14,7 @@ class App extends React.Component {
           <li>Dragonstone</li>
           <li>Demon of the Trident</li>
           <li>Brandon Stark</li>
-          <li>Highgarden</li>
+          <li>A game of thrones, A clash of kings, A storm of swords</li>
         </ol>
       </div>
     );
