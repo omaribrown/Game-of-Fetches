@@ -1,7 +1,5 @@
 import React from 'react';
 import './App.css';
-import axios from 'axios';
-
 
 class App extends React.Component {
 
@@ -10,6 +8,11 @@ class App extends React.Component {
     return (
       <div className="App">
         <ol>
+          <li>Highgarden</li>
+          <li>The Crownlands</li>
+          <li>Highgarden</li>
+          <li>Highgarden</li>
+          <li>Highgarden</li>
           <li>Highgarden</li>
         </ol>
       </div>
